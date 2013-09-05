@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DShowVideoLib", "DShowVideoLib2010.vcxproj", "{BCA6ED9A-246E-4F6A-8F7F-7D3437664BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA6ED9A-246E-4F6A-8F7F-7D3437664BC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCA6ED9A-246E-4F6A-8F7F-7D3437664BC9}.Debug|Win32.Build.0 = Debug|Win32
+		{BCA6ED9A-246E-4F6A-8F7F-7D3437664BC9}.Release|Win32.ActiveCfg = Release|Win32
+		{BCA6ED9A-246E-4F6A-8F7F-7D3437664BC9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
